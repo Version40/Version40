@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-<!--
-**Version40/Version40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Ivan Mikityuk,
+Python developer with 2+ years of experience. I started my career as a freelance backend developer and grew into a full-stack developer. My skill set includes:
 
-Here are some ideas to get you started:
+- **Backend:** Django, Django REST Framework, Flask (Quart), FastAPI
+- **Frontend:** React.js, JavaScript, CSS (SASS), HTML
+- **Other:** Aiogram, Telethon, Celery, ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 📊 I love mathematics and study it in depth
+- 🔢 I’m also passionate about algorithms and continuously improve my skills in this area
+- 💬 My strengths include excellent soft skills and effective communication
+
+### Currently
+- 📫 How to reach me:
+    - Gmail: **ivan.mikityuk4@gmail.com**
+    - [LinkedIn](https://www.linkedin.com/in/ivan-mikityuk-629907274/)
